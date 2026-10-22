@@ -15,7 +15,7 @@ namespace CinemaDomain
         public Sessao Sessao { get; set; }
 
 
-        public System.DateTime DataCompra {  get; set; }
+        public DateTime DataCompra {  get; set; }
 
         public List<IngressoItem> IngressoItens { get; set; }
 
